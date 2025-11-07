@@ -77,3 +77,7 @@ src/
 ## Mobile Support
 
 The grid is fully responsive and touch-friendly. Test it on your mobile device for the complete experience.
+
+## Demo
+
+https://simple-svelte-revo-grid.netlify.app/
